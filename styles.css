@@ -1,8 +1,12 @@
 .searchCities {
     width: 100%;
 }
+.test {
+    height : 450px;
+}
 #map_canvas {
-    height:450px;
+    height:100%;
+    width:100%;
     margin: 0px;
     padding : 0;
     position: relative;

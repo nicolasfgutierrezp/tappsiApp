@@ -24,11 +24,12 @@
 			<input id="pac-input" class="searchCities" type="text">
 		</div>
 	</div>
-
-	<div id="map_canvas" class="col-md-8">
+	<div class="col-md-8 test">
+	<div id="map_canvas">
 		<ui-gmap-google-map center="map.center" zoom="map.zoom" control="control">
 			<ui-gmap-marker ng-repeat="m in markers" coords="m.coords" icon="m.icon" idkey="m.id" options="m.options"></ui-gmap-marker>
 		</ui-gmap-google-map>
+	</div>
 	</div>
 	<div id="cities-list-container" class="col-md-4">
 		<ul class="citiesList list-group" >
