@@ -1,4 +1,4 @@
-# tappsiApp
+# CITIES APP
 Tappsi technical test.
 Este código realiza las siguientes acciones:
  1. Consulta API Google maps.
