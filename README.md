@@ -7,6 +7,7 @@ Este código realiza las siguientes acciones:
  5. Los marcadores de las ciudades en la lista se muestran en el mapa.
  6. Guarda cualquier cambio en la lista de ciudades en cookies para guardar la información local del usuario.
  7. Es posible eliminar ciudades de la lista de ciudades.
- 
-Nota: Al ejecutar en google chrome de manera local, la configuración por defecto de google chrome no permite compartir la posición del usuario.
+
+Nota 1: Se recomienda el uso de Mozilla Firefox para el uso de esta aplicación.
+Nota 2: Al ejecutar en google chrome de manera local, la configuración por defecto de google chrome no permite compartir la posición del usuario.
 
